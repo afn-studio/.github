@@ -1,5 +1,3 @@
-<div align="center">
-
 <br>
 
 <picture>
@@ -12,49 +10,29 @@
 
 # AFN
 
-<br>
+## Diseño, tecnología y criterio para marcas que quieren verse mejor.
 
-<h2 align="center">
-  Diseño, tecnología y criterio para marcas que quieren verse mejor.
-</h2>
-
-<p align="center">
-  Creamos experiencias digitales cuidadas, funcionales y con intención.<br>
-  Trabajamos con empresas que no buscan simplemente una web,<br>
-  sino un equipo cercano, implicado y de confianza<br>
-  para construir bien desde el primer día.
-</p>
+Creamos experiencias digitales cuidadas, funcionales y con intención.  
+Trabajamos con empresas que no buscan simplemente una web, sino un equipo cercano, implicado y de confianza para construir bien desde el primer día.
 
 <br>
 
-<p align="center">
-  <a href="https://afnstudio.es">
-    <img src="https://img.shields.io/badge/VER%20WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver web de AFN Studio" />
-  </a>
-</p>
+<a href="https://afnstudio.es">
+  <img src="https://img.shields.io/badge/VER%20WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Ver web de AFN Studio" />
+</a>
 
-<br>
+<br><br>
 
-<p align="center">
-  <sub>Madrid · Las Rozas</sub>
-</p>
+<sub>Madrid · Las Rozas</sub>
 
-<br>
+<br><br>
 
 ---
 
 <br>
 
-<h2 align="center">
-  No somos “el proveedor”.
-</h2>
+## No somos “el proveedor”.
 
-<p align="center">
-  Somos el equipo al que llamas cuando quieres que algo salga bien:<br>
-  con diseño, con tecnología y con una forma de trabajar<br>
-  cercana, clara y sin ruido.
-</p>
+Somos el equipo al que llamas cuando quieres que algo salga bien: con diseño, con tecnología y con una forma de trabajar cercana, clara y sin ruido.
 
 <br>
-
-</div>
